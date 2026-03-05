@@ -5,30 +5,31 @@
 
 - this commands use on terminal
 
-
 ### for the python version check
 
 ``` py
-
 python --version
-
 ```
+
 ##
 ### for start the python terminal
 
 ``` py
-
 python
+```
 
+##
+### for stop the python terminal
+``` py
+exit()
 ```
 ##
 
-### for stop the python terminal
+## Frist command like
+- how to run first command line
 
 ``` py
-
-exit()
-
+py filename.py
+# or
+python filename.py
 ```
-
-##
