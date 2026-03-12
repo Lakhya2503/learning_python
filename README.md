@@ -33,3 +33,7 @@ py filename.py
 # or
 python filename.py
 ```
+
+
+video pause
+03.12.55
