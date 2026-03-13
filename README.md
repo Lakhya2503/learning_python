@@ -36,4 +36,4 @@ python filename.py
 
 
 video pause
-03.12.55
+03.31:27
