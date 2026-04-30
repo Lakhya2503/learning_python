@@ -1,17 +1,10 @@
-
-print("he hi, i am laxman shinde")
-
-# -------------------- x --------------------
-
-fullName = "laxman shinde"
-
-name = fullName
-fullName = "lakhan patil"
-
-print("the name of fullName :", fullName)
-
-print("the name of name :", name)
-
-# -------------------- x --------------------
+num1 = 1
+num2 = 4
+sum = num1 + num2
+print("sum : " , sum)
 
 
+#
+# TODO : Time Stamp =  43 : 00
+# TODO : Time session = String
+#
