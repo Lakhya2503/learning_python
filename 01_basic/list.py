@@ -95,3 +95,11 @@ list3 = [list1] + [list2]
 # print(list)
 
 # ----------------------------------------------
+
+# TODO : ✔️ YOU CAN PERFORM THIS OPERATION BEACUSE LIST IS MUTABLE
+
+# print(list1)
+# list1[5] = 3125
+# print(list1)
+
+# ----------------------------------------------
